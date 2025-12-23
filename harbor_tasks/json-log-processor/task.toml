@@ -1,0 +1,13 @@
+id = "json-log-processor"
+name = "JSON Log Processor"
+difficulty = "Easy"
+description = "Filter JSON log entries by severity level"
+memory_mb = 512
+storage_mb = 1024
+timeout_seconds = 300
+
+[scoring]
+type = "binary"
+oracle_score = 1.0
+nop_score = 0.0
+

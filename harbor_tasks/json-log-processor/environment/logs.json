@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2024-01-15T10:30:00Z",
+    "level": "ERROR",
+    "message": "Database connection failed",
+    "service": "api-server"
+  },
+  {
+    "timestamp": "2024-01-15T10:31:15Z",
+    "level": "INFO",
+    "message": "User login successful",
+    "service": "auth-service"
+  },
+  {
+    "timestamp": "2024-01-15T10:32:00Z",
+    "level": "ERROR",
+    "message": "Payment gateway timeout",
+    "service": "payment-service"
+  },
+  {
+    "timestamp": "2024-01-15T10:33:20Z",
+    "level": "WARNING",
+    "message": "High memory usage detected",
+    "service": "monitoring"
+  },
+  {
+    "timestamp": "2024-01-15T10:34:10Z",
+    "level": "INFO",
+    "message": "Cache updated successfully",
+    "service": "cache-service"
+  },
+  {
+    "timestamp": "2024-01-15T10:35:00Z",
+    "level": "ERROR",
+    "message": "File not found exception",
+    "service": "file-service"
+  },
+  {
+    "timestamp": "2024-01-15T10:36:45Z",
+    "level": "INFO",
+    "message": "Request processed in 150ms",
+    "service": "api-server"
+  },
+  {
+    "timestamp": "2024-01-15T10:37:30Z",
+    "level": "WARNING",
+    "message": "Slow query detected",
+    "service": "database"
+  },
+  {
+    "timestamp": "2024-01-15T10:38:00Z",
+    "level": "INFO",
+    "message": "Configuration reloaded",
+    "service": "config-service"
+  },
+  {
+    "timestamp": "2024-01-15T10:39:15Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "service": "health-service"
+  }
+]
+
